@@ -1,0 +1,23 @@
+<annotation>
+    <folder>train</folder>
+    <filename>000002.jpg</filename>
+    <size>
+        <width>600</width>
+        <height>420</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>crackers tuc</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>37</xmin>
+            <ymin>9</ymin>
+            <xmax>573</xmax>
+            <ymax>338</ymax>
+        </bndbox>
+    </object>
+</annotation>

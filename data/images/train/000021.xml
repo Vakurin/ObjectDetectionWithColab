@@ -1,0 +1,40 @@
+<annotation>
+    <folder>train</folder>
+    <filename>000021.jpg</filename>
+    <size>
+        <width>600</width>
+        <height>420</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>crackers tuc</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <rotated_box>
+            <cx>288</cx>
+            <cy>207</cy>
+            <width>440</width>
+            <height>225</height>
+            <rot>0.478123</rot>
+        </rotated_box>
+        <polygon>
+            <x1>145</x1>
+            <y1>408</y1>
+            <x2>535</x2>
+            <y2>206</y2>
+            <x3>432</x3>
+            <y3>7</y3>
+            <x4>42</x4>
+            <y4>209</y4>
+        </polygon>
+        <bndbox>
+            <xmin>42</xmin>
+            <ymin>7</ymin>
+            <xmax>535</xmax>
+            <ymax>408</ymax>
+        </bndbox>
+    </object>
+</annotation>
