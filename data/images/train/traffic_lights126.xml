@@ -1,0 +1,36 @@
+<annotation>
+    <folder>train</folder>
+    <filename>traffic_lights126.jpg</filename>
+    <size>
+        <width>900</width>
+        <height>680</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Traffic Light-red</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>618</xmin>
+            <ymin>227</ymin>
+            <xmax>682</xmax>
+            <ymax>364</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Traffic Light-red</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>200</xmin>
+            <ymin>297</ymin>
+            <xmax>241</xmax>
+            <ymax>384</ymax>
+        </bndbox>
+    </object>
+</annotation>

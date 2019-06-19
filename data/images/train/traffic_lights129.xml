@@ -1,0 +1,23 @@
+<annotation>
+    <folder>train</folder>
+    <filename>traffic_lights129.jpg</filename>
+    <size>
+        <width>900</width>
+        <height>680</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Traffic Light-red</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>53</xmin>
+            <ymin>267</ymin>
+            <xmax>80</xmax>
+            <ymax>357</ymax>
+        </bndbox>
+    </object>
+</annotation>
